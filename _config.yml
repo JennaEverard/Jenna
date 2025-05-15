@@ -1,6 +1,6 @@
 title: Jenna Everard
-url: "jennaeverard.github.io"
-baseurl: "https://jennaeverard.github.io/Jenna/"
+url: "www.jennaeverard.com"
+baseurl: "https://www.jennaeverard.com/"
 
 markdown: kramdown
 #ins_logo: "./img/favicon.png"
@@ -19,12 +19,12 @@ sass:
 
 nav:
  - name: "About"
-   link: "https://jennaeverard.github.io/Jenna/"
+   link: "https://www.jennaeverard.com/"
  - name: "Research"
-   link: "https://jennaeverard.github.io/Jenna/research"
+   link: "https://www.jennaeverard.com/research"
  - name: "Code"
-   link: "https://jennaeverard.github.io/Jenna/code"
+   link: "https://www.jennaeverard.com/code"
  - name: "Field Photos"
-   link: "https://jennaeverard.github.io/Jenna/fieldphotos"
+   link: "https://www.jennaeverard.com/fieldphotos"
  - name: "CV"
-   link: "https://jennaeverard.github.io/Jenna/cv"
+   link: "https://www.jennaeverard.com/cv"
