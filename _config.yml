@@ -1,6 +1,6 @@
 title: Jenna Everard
-url: "Jenna"
-baseurl: ""
+url: "jennaeverard.github.io"
+baseurl: "https://jennaeverard.github.io/Jenna/"
 
 markdown: kramdown
 #ins_logo: "./img/favicon.png"
