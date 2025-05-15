@@ -11,8 +11,6 @@ Current Research
 
 <img src="./img/SanAndreasFault.JPG" alt="San Andreas Fault Roadcut">
 
-<br style="line-height:1.5">
-
 <h4>
 The San Andreas Fault Observatory at Depth
 </h4>
@@ -27,8 +25,6 @@ The San Andreas Fault Observatory at Depth
 
 <img src="./img/NMFlourite.JPG" alt="New Mexico Fluorite Locality">
 
-<br style="line-height:1.5">
-
 <h4>
 Fluorite Deposits Along the Rio Grande Rift
 </h4>
@@ -40,8 +36,6 @@ Fluorite Deposits Along the Rio Grande Rift
 <br style="line-height:3">
 
 <img src="./img/Chrys.JPG" alt="Mass Spectrometer Setup">
-
-<br style="line-height:1.5">
 
 <h4>
 Neon Dating of Iron Oxides
@@ -58,8 +52,6 @@ Neon Dating of Iron Oxides
 <br style="line-height:3">
 
 <img src="./img/IODPExp405.JPG" alt="IODP Expedition 405 Group Photo">
-
-<br style="line-height:1.5">
 
 <h4>
 Japan Trench Seismicity and Shallow Slip
@@ -81,8 +73,6 @@ Past Research
 
 <img src="./img/Villarica.JPG" alt="Villarica Lava Lake">
 
-<br style="line-height:1.5">
-
 <h4>
 Temperature of the Villarrica Lava Lake
 </h4>
@@ -91,9 +81,7 @@ Temperature of the Villarrica Lava Lake
 
 <br style="line-height:3">
 
-<img src="./img/Villarica.JPG" alt="Villarica Lava Lake">
-
-<br style="line-height:1.5">
+<img src="./img/data.JPG" alt="InternetPrivacy">
 
 <h4>
 Internet Safety and Data Privacy
@@ -110,8 +98,6 @@ Internet Safety and Data Privacy
 
 <img src="./img/wastewater.JPG" alt="Collecting Wastewater from Barnard Dorms">
 
-<br style="line-height:1.5">
-
 <h4>
 Wastewater Surveillance of SARS-CoV-2
 </h4>
@@ -122,8 +108,6 @@ Wastewater Surveillance of SARS-CoV-2
 
 <img src="./img/hearingloss.JPG" alt="Gene Expression Pattern for Pediatric Hearing Loss">
 
-<br style="line-height:1.5">
-
 <h4>
 Pediatric Hearing Loss
 </h4>
@@ -133,8 +117,6 @@ Pediatric Hearing Loss
 <br style="line-height:3">
 
 <img src="./img/arcticocean.JPG" alt="The Arctic Ocean">
-
-<br style="line-height:1.5">
 
 <h4>
 Arctic Ocean Microbiomes
