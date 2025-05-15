@@ -106,7 +106,7 @@ Wastewater Surveillance of SARS-CoV-2
 
 <br style="line-height:3">
 
-<img src="./img/hearingloss.JPG" alt="Gene Expression Pattern for Pediatric Hearing Loss">
+<img src="./img/hearingloss.png" alt="Gene Expression Pattern for Pediatric Hearing Loss">
 
 <h4>
 Pediatric Hearing Loss
