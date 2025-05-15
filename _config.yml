@@ -1,0 +1,30 @@
+title: Jenna Everard
+url: "Jenna.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./img/favicon.png"
+
+remote_theme: ankitsultana/researcher@gem
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "https://Jenna.github.io"
+ - name: "CV"
+   link: "https://Jenna.github.io/cv/cv"
+ - name: "Code"
+   link: "https://github.com/JennaE"
+ - name: "Publications"
+   link: "https://Jenna.github.io/publications/publications"
+ - name: "Contact"
+   link: "https://Jenna.github.io/contact"
