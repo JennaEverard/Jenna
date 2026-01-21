@@ -1,10 +1,10 @@
 title: Jenna Everard
 url: "www.jennaeverard.com"
 # FOR TESTING
-# baseurl: ""
+baseurl: ""
 
 # FOR PROD
-baseurl: "https://www.jennaeverard.com/"
+#baseurl: "https://www.jennaeverard.com/"
 
 markdown: kramdown
 #ins_logo: "./img/favicon.png"

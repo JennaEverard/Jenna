@@ -23,70 +23,70 @@ Field Work
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/1.JPG">
-      <img src="/img/field/2024_new_mexico/1.JPG" alt="Hansonburg mines, bright blue fluorite vein above">
+      <img src="/img/field/2024_new_mexico/1.JPG" srcset="/img/field/2024_new_mexico/1.JPG 800w" loading="lazy" alt="Hansonburg mines, bright blue fluorite vein above">
       <p>Hansonburg mines, bright blue fluorite vein above</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/2.png">
-      <img src="/img/field/2024_new_mexico/2.png" alt="Zuni mines">
+      <img src="/img/field/2024_new_mexico/2.png" srcset="/img/field/2024_new_mexico/2.png 800w" loading="lazy" alt="Zuni mines">
       <p>Zuni mines</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/3.png">
-      <img src="/img/field/2024_new_mexico/3.png" alt="Exiting one of the mines">
+      <img src="/img/field/2024_new_mexico/3.png" srcset="/img/field/2024_new_mexico/3.png 800w" loading="lazy" alt="Exiting one of the mines">
       <p>Exiting one of the mines</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/8.png">
-      <img src="/img/field/2024_new_mexico/8.png" alt="John sitting in some slickensides">
+      <img src="/img/field/2024_new_mexico/8.png" srcset="/img/field/2024_new_mexico/8.png 800w" loading="lazy" alt="John sitting in some slickensides">
       <p>John sitting in some slickensides</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/5.JPG">
-      <img src="/img/field/2024_new_mexico/5.JPG" alt="Hansonburg mines, purple fluorite">
+      <img src="/img/field/2024_new_mexico/5.JPG" srcset="/img/field/2024_new_mexico/5.JPG 800w" loading="lazy" alt="Hansonburg mines, purple fluorite">
       <p>Hansonburg mines, purple fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/6.JPG">
-      <img src="/img/field/2024_new_mexico/6.JPG" alt="Hansonburg mines, green fluorite">
+      <img src="/img/field/2024_new_mexico/6.JPG" srcset="/img/field/2024_new_mexico/6.JPG 800w" loading="lazy" alt="Hansonburg mines, green fluorite">
       <p>Hansonburg mines, green fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/9.png">
-      <img src="/img/field/2024_new_mexico/9.png" alt="Hansonburg mines, blue fluorite">
+      <img src="/img/field/2024_new_mexico/9.png" srcset="/img/field/2024_new_mexico/9.png 800w" loading="lazy" alt="Hansonburg mines, blue fluorite">
       <p>Hansonburg mines, blue fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/10.png">
-      <img src="/img/field/2024_new_mexico/10.png" alt="Ice cream igloo fluorite">
+      <img src="/img/field/2024_new_mexico/10.png" srcset="/img/field/2024_new_mexico/10.png 800w" loading="lazy" alt="Ice cream igloo fluorite">
       <p>Ice cream igloo fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/11.png">
-      <img src="/img/field/2024_new_mexico/11.png" alt="Zuni mines, vein of blue fluorite in rock">
+      <img src="/img/field/2024_new_mexico/11.png" srcset="/img/field/2024_new_mexico/11.png 800w" loading="lazy" alt="Zuni mines, vein of blue fluorite in rock">
       <p>Zuni mines, vein of blue fluorite in rock</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_new_mexico/12.png">
-      <img src="/img/field/2024_new_mexico/12.png" alt="Gold!">
+      <img src="/img/field/2024_new_mexico/12.png" srcset="/img/field/2024_new_mexico/12.png 800w" loading="lazy" alt="Gold!">
       <p>Gold!</p>
     </a>
   </article>
@@ -111,84 +111,84 @@ Field Work
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/1.jpg">
-      <img src="/img/field/2024_nevada/1.jpg" alt="Field team at the old Fluorite Post Office">
+      <img src="/img/field/2024_nevada/1.jpg" srcset="/img/field/2024_nevada/1.jpg 800w" loading="lazy" alt="Field team at the old Fluorite Post Office">
       <p>Field team at the old Fluorite Post Office</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/2.jpg">
-      <img src="/img/field/2024_nevada/2.jpg" alt="Large slickenside outcrop">
+      <img src="/img/field/2024_nevada/2.jpg" srcset="/img/field/2024_nevada/2.jpg 800w" loading="lazy" alt="Large slickenside outcrop">
       <p>Large slickenside outcrop</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/3.jpg">
-      <img src="/img/field/2024_nevada/3.jpg" alt="Death Valley">
+      <img src="/img/field/2024_nevada/3.jpg" srcset="/img/field/2024_nevada/3.jpg 800w" loading="lazy" alt="Death Valley">
       <p>Death Valley</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/4.jpg">
-      <img src="/img/field/2024_nevada/4.jpg" alt="Ubehebe Crater, Death Valley">
+      <img src="/img/field/2024_nevada/4.jpg" srcset="/img/field/2024_nevada/4.jpg 800w" loading="lazy" alt="Ubehebe Crater, Death Valley">
       <p>Ubehebe Crater, Death Valley</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/5.jpg">
-      <img src="/img/field/2024_nevada/5.jpg" alt="Climbing in the hills (can you spot us?)">
+      <img src="/img/field/2024_nevada/5.jpg" srcset="/img/field/2024_nevada/5.jpg 800w" loading="lazy" alt="Climbing in the hills (can you spot us?)">
       <p>Climbing in the hills (can you spot us?)</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/6.png">
-      <img src="/img/field/2024_nevada/6.png" alt="Bright turquoise layer">
+      <img src="/img/field/2024_nevada/6.png" srcset="/img/field/2024_nevada/6.png 800w" loading="lazy" alt="Bright turquoise layer">
       <p>Bright turquoise layer</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/7.png">
-      <img src="/img/field/2024_nevada/7.png" alt="Walking through an open pit mine">
+      <img src="/img/field/2024_nevada/7.png" srcset="/img/field/2024_nevada/7.png 800w" loading="lazy" alt="Walking through an open pit mine">
       <p>Walking through an open pit mine</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/8.jpg">
-      <img src="/img/field/2024_nevada/8.jpg" alt="A friendly burro!">
+      <img src="/img/field/2024_nevada/8.jpg" srcset="/img/field/2024_nevada/8.jpg 800w" loading="lazy" alt="A friendly burro!">
       <p>A friendly burro!</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/9.jpg">
-      <img src="/img/field/2024_nevada/9.jpg" alt="Purple fluorite">
+      <img src="/img/field/2024_nevada/9.jpg" srcset="/img/field/2024_nevada/9.jpg 800w" loading="lazy" alt="Purple fluorite">
       <p>Purple fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/10.jpg">
-      <img src="/img/field/2024_nevada/10.jpg" alt="Amber fluorite">
+      <img src="/img/field/2024_nevada/10.jpg" srcset="/img/field/2024_nevada/10.jpg 800w" loading="lazy" alt="Amber fluorite">
       <p>Amber fluorite</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/11.png">
-      <img src="/img/field/2024_nevada/11.png" alt="Testing fluorescence at dinner">
+      <img src="/img/field/2024_nevada/11.png" srcset="/img/field/2024_nevada/11.png 800w" loading="lazy" alt="Testing fluorescence at dinner">
       <p>Testing fluorescence at dinner</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2024_nevada/12.jpg">
-      <img src="/img/field/2024_nevada/12.jpg" alt="The Hoover Dam">
+      <img src="/img/field/2024_nevada/12.jpg" srcset="/img/field/2024_nevada/12.jpg 800w" loading="lazy" alt="The Hoover Dam">
       <p>The Hoover Dam</p>
     </a>
   </article>
@@ -213,28 +213,28 @@ Field Work
 
   <article>
     <a class="thumbnail" href="/img/field/2023_colorado/1.png">
-      <img src="/img/field/2023_colorado/1.png" alt="The Great  Unconformity">
+      <img src="/img/field/2023_colorado/1.png" srcset="/img/field/2023_colorado/1.png 800w" loading="lazy" alt="The Great  Unconformity">
       <p>The Great  Unconformity</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_colorado/2.png">
-      <img src="/img/field/2023_colorado/2.png" alt="Looking for dykes">
+      <img src="/img/field/2023_colorado/2.png" srcset="/img/field/2023_colorado/2.png 800w" loading="lazy" alt="Looking for dykes">
       <p>Looking for dykes</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_colorado/3.png">
-      <img src="/img/field/2023_colorado/3.png" alt="Intersecting dykes - a temporal relationship!">
+      <img src="/img/field/2023_colorado/3.png" srcset="/img/field/2023_colorado/3.png 800w" loading="lazy" alt="Intersecting dykes - a temporal relationship!">
       <p>Intersecting dykes - a temporal relationship!</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_colorado/4.png">
-      <img src="/img/field/2023_colorado/4.png" alt="Hiking over Iron Mountain">
+      <img src="/img/field/2023_colorado/4.png" srcset="/img/field/2023_colorado/4.png 800w" loading="lazy" alt="Hiking over Iron Mountain">
       <p>Hiking over Iron Mountain</p>
     </a>
   </article>
@@ -257,42 +257,42 @@ Field Work
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/1.png">
-      <img src="/img/field/2023_italy/1.png" alt="The AGES Lab">
+      <img src="/img/field/2023_italy/1.png" srcset="/img/field/2023_italy/1.png 800w" loading="lazy" alt="The AGES Lab">
       <p>The AGES Lab</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/2.png">
-      <img src="/img/field/2023_italy/2.png" alt="Measuring Milankovitch Cycles">
+      <img src="/img/field/2023_italy/2.png" srcset="/img/field/2023_italy/2.png 800w" loading="lazy" alt="Measuring Milankovitch Cycles">
       <p>Measuring Milankovitch Cycles</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/3.png">
-      <img src="/img/field/2023_italy/3.png" alt="Frasassi Caves">
+      <img src="/img/field/2023_italy/3.png" srcset="/img/field/2023_italy/3.png 800w" loading="lazy" alt="Frasassi Caves">
       <p>Frasassi Caves</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/4.png">
-      <img src="/img/field/2023_italy/4.png" alt="Sitting on the K-Pg boundary">
+      <img src="/img/field/2023_italy/4.png" srcset="/img/field/2023_italy/4.png 800w" loading="lazy" alt="Sitting on the K-Pg boundary">
       <p>Sitting on the K-Pg boundary</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/5.png">
-      <img src="/img/field/2023_italy/5.png" alt="Norcia">
+      <img src="/img/field/2023_italy/5.png" srcset="/img/field/2023_italy/5.png 800w" loading="lazy" alt="Norcia">
       <p>Norcia</p>
     </a>
   </article>
 
   <article>
     <a class="thumbnail" href="/img/field/2023_italy/6.png">
-      <img src="/img/field/2023_italy/6.png" alt="Looking for gypsum on the beach">
+      <img src="/img/field/2023_italy/6.png" srcset="/img/field/2023_italy/6.png 800w" loading="lazy" alt="Looking for gypsum on the beach">
       <p>Looking for gypsum on the beach</p>
     </a>
   </article>
