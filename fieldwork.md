@@ -29,21 +29,21 @@ Field Work
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/2.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/2.png">
       <img src="/img/field/2024_new_mexico/2.PNG" alt="Zuni mines">
       <p>Zuni mines</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/3.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/3.png">
       <img src="/img/field/2024_new_mexico/3.PNG" alt="Exiting one of the mines">
       <p>Exiting one of the mines</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/8.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/8.png">
       <img src="/img/field/2024_new_mexico/8.PNG" alt="John sitting in some slickensides">
       <p>John sitting in some slickensides</p>
     </a>
@@ -64,28 +64,28 @@ Field Work
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/9.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/9.png">
       <img src="/img/field/2024_new_mexico/9.PNG" alt="Hansonburg mines, blue fluorite">
       <p>Hansonburg mines, blue fluorite</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/10.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/10.png">
       <img src="/img/field/2024_new_mexico/10.PNG" alt="Ice cream igloo fluorite">
       <p>Ice cream igloo fluorite</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/11.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/11.png">
       <img src="/img/field/2024_new_mexico/11.PNG" alt="Zuni mines, vein of blue fluorite in rock">
       <p>Zuni mines, vein of blue fluorite in rock</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_new_mexico/12.PNG">
+    <a class="thumbnail" href="/img/field/2024_new_mexico/12.png">
       <img src="/img/field/2024_new_mexico/12.PNG" alt="Gold!">
       <p>Gold!</p>
     </a>
@@ -145,14 +145,14 @@ Field Work
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_nevada/6.PNG">
+    <a class="thumbnail" href="/img/field/2024_nevada/6.png">
       <img src="/img/field/2024_nevada/6.PNG" alt="Bright turquoise layer">
       <p>Bright turquoise layer</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_nevada/7.PNG">
+    <a class="thumbnail" href="/img/field/2024_nevada/7.png">
       <img src="/img/field/2024_nevada/7.PNG" alt="Walking through an open pit mine">
       <p>Walking through an open pit mine</p>
     </a>
@@ -180,7 +180,7 @@ Field Work
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2024_nevada/11.PNG">
+    <a class="thumbnail" href="/img/field/2024_nevada/11.png">
       <img src="/img/field/2024_nevada/11.PNG" alt="Testing fluorescence at dinner">
       <p>Testing fluorescence at dinner</p>
     </a>
@@ -212,28 +212,28 @@ Field Work
 <section class="thumbnails">
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_colorado/1.PNG">
+    <a class="thumbnail" href="/img/field/2023_colorado/1.png">
       <img src="/img/field/2023_colorado/1.PNG" alt="The Great  Unconformity">
       <p>The Great  Unconformity</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_colorado/2.PNG">
+    <a class="thumbnail" href="/img/field/2023_colorado/2.png">
       <img src="/img/field/2023_colorado/2.PNG" alt="Looking for dykes">
       <p>Looking for dykes</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_colorado/3.PNG">
+    <a class="thumbnail" href="/img/field/2023_colorado/3.png">
       <img src="/img/field/2023_colorado/3.PNG" alt="Intersecting dykes - a temporal relationship!">
       <p>Intersecting dykes - a temporal relationship!</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_colorado/4.PNG">
+    <a class="thumbnail" href="/img/field/2023_colorado/4.png">
       <img src="/img/field/2023_colorado/4.PNG" alt="Hiking over Iron Mountain">
       <p>Hiking over Iron Mountain</p>
     </a>
@@ -256,42 +256,42 @@ Field Work
 <section class="thumbnails">
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/1.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/1.png">
       <img src="/img/field/2023_italy/1.PNG" alt="The AGES Lab">
       <p>The AGES Lab</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/2.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/2.png">
       <img src="/img/field/2023_italy/2.PNG" alt="Measuring Milankovitch Cycles">
       <p>Measuring Milankovitch Cycles</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/3.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/3.png">
       <img src="/img/field/2023_italy/3.PNG" alt="Frasassi Caves">
       <p>Frasassi Caves</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/4.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/4.png">
       <img src="/img/field/2023_italy/4.PNG" alt="Sitting on the K-Pg boundary">
       <p>Sitting on the K-Pg boundary</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/5.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/5.png">
       <img src="/img/field/2023_italy/5.PNG" alt="Norcia">
       <p>Norcia</p>
     </a>
   </article>
 
   <article>
-    <a class="thumbnail" href="/img/field/2023_italy/6.PNG">
+    <a class="thumbnail" href="/img/field/2023_italy/6.png">
       <img src="/img/field/2023_italy/6.PNG" alt="Looking for gypsum on the beach">
       <p>Looking for gypsum on the beach</p>
     </a>
