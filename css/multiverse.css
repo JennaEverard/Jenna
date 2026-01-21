@@ -1,0 +1,136 @@
+/* ============================
+   TRUE MULTIVERSE GALLERY (SCOPED)
+   ============================ */
+
+.multiverse-scope {
+  --gap: 0.75rem;
+  --overlay-bg: rgba(0,0,0,0.85);
+  --caption-bg: rgba(0,0,0,0.6);
+  --caption-color: #fff;
+  font-family: inherit;
+}
+
+/* Masonry-like grid */
+.multiverse-scope .thumbnails {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: var(--gap);
+  margin: 0;
+  padding: 0;
+}
+
+/* Each item */
+.multiverse-scope .thumbnails article {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Thumbnail container */
+.multiverse-scope .thumbnail {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Images fill their square */
+.multiverse-scope .thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 1 / 1; /* perfect square */
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+/* Zoom on hover */
+.multiverse-scope .thumbnail:hover img {
+  transform: scale(1.05);
+}
+
+/* Caption overlay */
+.multiverse-scope .thumbnail h2,
+.multiverse-scope .thumbnail p {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 0.5rem 0.75rem;
+  background: var(--caption-bg);
+  color: var(--caption-color);
+  margin: 0;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+.multiverse-scope .thumbnail h2 {
+  bottom: 2.2rem;
+  font-size: 1rem;
+}
+
+.multiverse-scope .thumbnail p {
+  bottom: 0;
+  font-size: 0.85rem;
+}
+
+/* Fade in captions */
+.multiverse-scope .thumbnail:hover h2,
+.multiverse-scope .thumbnail:hover p {
+  opacity: 1;
+}
+
+/* ============================
+   FULLSCREEN POPUP
+   ============================ */
+
+.multiverse-popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--overlay-bg);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.multiverse-popup-overlay.active {
+  display: flex;
+}
+
+.multiverse-popup {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.multiverse-popup img {
+  max-width: 100%;
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+/* Close button */
+.multiverse-close {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  background: #fff;
+  color: #000;
+  font-size: 20px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}

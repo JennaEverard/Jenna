@@ -1,5 +1,9 @@
 title: Jenna Everard
 url: "www.jennaeverard.com"
+# FOR TESTING
+# baseurl: ""
+
+# FOR PROD
 baseurl: "https://www.jennaeverard.com/"
 
 markdown: kramdown
@@ -22,9 +26,9 @@ nav:
    link: "https://www.jennaeverard.com/"
  - name: "Research"
    link: "https://www.jennaeverard.com/research"
+ - name: "Field Work"
+   link: "https://www.jennaeverard.com/fieldwork"
  - name: "Code"
    link: "https://www.jennaeverard.com/code"
- - name: "Field Photos"
-   link: "https://www.jennaeverard.com/fieldphotos"
  - name: "CV"
    link: "https://www.jennaeverard.com/cv"
